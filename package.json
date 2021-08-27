@@ -23,6 +23,7 @@
     "serialize-javascript": "^3.1.0",
     "sockjs": "^0.3.20",
     "ssri": "^8.0.1",
+    "tar": "^3.2.3",
     "yargs-parser": "^20.2.4"
   },
   "scripts": {
