@@ -13,7 +13,7 @@
     "lodash": "^4.17.19",
     "minimist": "1.2.3",
     "node-forge": "^0.10.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "object-path": "^0.11.8",
     "postcss": "^7.0.36",
     "react": "^16.12.0",
